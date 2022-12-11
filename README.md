@@ -2,7 +2,7 @@
 
 一个基于 UptimeRobot API 的在线状态面板，修改自 [uptime-status](https://github.com/yb/uptime-status)  
 
-![YISHI-站点监测.png](https://smms.app/image/pMeh8NHbTYiFrId)
+![亦失-站点监测](https://s2.loli.net/2022/12/11/pMeh8NHbTYiFrId.png)
 
 ## 修改内容
 
